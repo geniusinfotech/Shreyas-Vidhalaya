@@ -99,7 +99,7 @@ div.borderYtoX a:hover:after {
 [type="checkbox"]:checked,
 [type="checkbox"]:not(:checked) {
   position: absolute;
-  left: -999px;
+  left: 0px;
 }
 
 .menu-icon1:checked+label,
